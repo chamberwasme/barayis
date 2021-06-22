@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Barayis</title>
+    <link>https://chamberwasme.github.io/barayis/categories/</link>
+    <description>Recent content in Categories on Barayis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://chamberwasme.github.io/barayis/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://chamberwasme.github.io/barayis/categories/background/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chamberwasme.github.io/barayis/categories/background/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallpapers</title>
+      <link>https://chamberwasme.github.io/barayis/categories/wallpapers/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://chamberwasme.github.io/barayis/categories/wallpapers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
